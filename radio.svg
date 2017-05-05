@@ -28,9 +28,9 @@
      id="namedview19"
      showgrid="false"
      units="mm"
-     inkscape:zoom="1.7279141"
-     inkscape:cx="-46.983099"
-     inkscape:cy="106.05295"
+     inkscape:zoom="3.4558282"
+     inkscape:cx="24.493097"
+     inkscape:cy="85.388518"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -59,7 +59,7 @@
      style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.1731219;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      inkscape:connector-curvature="0" />
   <g
-     id="g5531"
+     id="radio"
      transform="translate(-173.5117,-477.41835)">
     <path
        id="path5525"
@@ -118,7 +118,7 @@
        inkscape:connector-curvature="0" />
   </g>
   <g
-     id="g5527"
+     id="antena"
      transform="matrix(0.99824107,-0.05928547,0.05928547,0.99824107,-204.80276,-464.13123)"
      inkscape:transform-center-x="-67.549408"
      inkscape:transform-center-y="-25.179276">
@@ -138,7 +138,7 @@
        inkscape:connector-curvature="0" />
   </g>
   <g
-     id="g5482"
+     id="nota1"
      transform="translate(-9.1516638,-458.32019)">
     <path
        transform="matrix(0.8732329,-0.48730309,0.48730309,0.8732329,0,0)"
@@ -187,7 +187,7 @@
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
   <g
-     id="g5457"
+     id="nota3"
      style="fill:#000000"
      transform="translate(0.1080462,-447.90299)">
     <path
@@ -212,7 +212,7 @@
   </g>
   <g
      transform="matrix(0.80476795,0.59358954,-0.59358954,0.80476795,353.51492,-370.79664)"
-     id="g5457-6"
+     id="nota2"
      style="fill:#000000">
     <path
        transform="matrix(0.92436453,-0.38151045,0.38151045,0.92436453,0,0)"
@@ -236,7 +236,7 @@
   </g>
   <g
      transform="translate(54.657456,-459.94642)"
-     id="g5482-3">
+     id="nota4">
     <path
        transform="matrix(0.8732329,-0.48730309,0.48730309,0.8732329,0,0)"
        d="m -272.38621,562.7713 a 3.7853372,2.6599667 0 0 1 -4.64498,1.74739 3.7853372,2.6599667 0 0 1 -2.63104,-3.20766 3.7853372,2.6599667 0 0 1 4.48004,-1.94847 3.7853372,2.6599667 0 0 1 2.91189,3.08552"
