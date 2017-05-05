@@ -34,7 +34,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="200.35965"
+     inkscape:cx="112.98146"
      inkscape:cy="170.5327"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -56,7 +56,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -68,10 +68,10 @@
     <path
        style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 302.60612,525.00402 c 1.028,-0.16636 2.0351,-0.43808 3.02319,-0.82116 14.98196,-1.93371 18.13938,-13.33503 23.66861,-22.99482 l 10.11266,-42.04316 8.75131,-6.01293 c 3.13053,23.02376 7.57064,26.6038 11.86248,32.3671 16.92158,12.0503 33.8542,20.37087 50.82389,13.81565 14.5137,-1.98592 26.52402,-24.25761 30.29682,-31.86267 8.06495,-16.25701 -26.10462,-36.10889 -30.49841,-32.65131 -14.57109,2.58527 -19.79081,-3.75644 -31.26433,-7.79659 L 376.77311,414.762 c 31.53703,-6.56563 33.8155,-21.98961 43.95357,-35.212 3.6499,-17.1663 2.64058,-33.37752 -7.00652,-46.70623 -12.58658,-9.72941 -24.92526,-15.62327 -36.59833,-11.2459 -26.59377,3.96429 -21.32643,37.16861 -28.86694,62.20015 l -9.53048,4.3493 -10.31977,-25.96402 c -10.24022,-8.03594 -20.37912,-16.23686 -33.77163,-19.11981 -16.4488,0.67445 -32.09269,3.74386 -43.37217,19.7717 -18.42525,26.34907 -6.80191,38.62753 9.86227,48.54631 l 42.6559,4.38792 3.34224,11.22919 c -9.98482,3.17915 -20.00883,6.81318 -30.92152,20.836 -8.25022,14.88331 -19.79718,26.93916 -11.43609,56.06922 15.99476,14.39109 27.90522,22.70837 37.84248,21.10019 z"
-       id="path3391"
+       id="aspas"
        inkscape:connector-curvature="0" />
     <g
-       id="g4231">
+       id="ventilador">
       <path
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
@@ -203,29 +203,35 @@
          id="rect5084"
          style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
-    <circle
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4288-2-3-6"
-       cx="309.81607"
-       cy="606.06274"
-       r="4.3557019" />
-    <circle
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4288-2-3-0"
-       cx="307.98557"
-       cy="603.36273"
-       r="1.5233026" />
-    <circle
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4288-2-3-6-6"
-       cx="368.0246"
-       cy="609.06268"
-       r="4.3557019" />
-    <circle
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4288-2-3-0-1"
-       cx="370.48727"
-       cy="611.66595"
-       r="1.5233026" />
+    <g
+       id="ojoIzquierdo">
+      <circle
+         r="4.3557019"
+         cy="606.06274"
+         cx="309.81607"
+         id="path4288-2-3-6"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1.5233026"
+         cy="603.36273"
+         cx="307.98557"
+         id="path4288-2-3-0"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="ojoDerecho">
+      <circle
+         r="4.3557019"
+         cy="609.06268"
+         cx="368.0246"
+         id="path4288-2-3-6-6"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1.5233026"
+         cy="611.66595"
+         cx="370.48727"
+         id="path4288-2-3-0-1"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
   </g>
 </svg>
