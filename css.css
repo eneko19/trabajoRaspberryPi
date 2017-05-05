@@ -1,0 +1,20 @@
+.contenedor{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+img{
+  width: 450px;
+  height: 700px;
+}
+div div{
+width: 49%;
+height: 49%;
+}
+h1{
+text-align: center;
+font-size: 6em;
+}
+.activado{
+  background-color: #46FF33;
+}
