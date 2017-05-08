@@ -3,9 +3,12 @@
   flex-wrap: wrap;
   justify-content: space-around;
 }
+h1{
+  border-bottom: 1px solid red;
+}
 img{
   width: 450px;
-  height: 700px;
+  height: 630px;
 }
 div div{
 width: 49%;
@@ -17,4 +20,8 @@ font-size: 6em;
 }
 .activado{
   background-color: #46FF33;
+}
+footer{
+  border-top: 1px solid red;
+  font-size: 2em;
 }
